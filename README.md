@@ -1,4 +1,3 @@
-# dustpole.github.io
-Honorable Monkey
+# Honorable Monkey
 
-Future home of Blue Team Scripts.
+Future home of some honorable Blue Team Scripts.
